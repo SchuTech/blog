@@ -7,11 +7,11 @@ googleAnalytics = "UA-122989836-1"
 
 [params]
     author = "Charles Schultz"
-    description = "A software engineers attempt at becoming a better writer."
+    description = "A software engineer's attempt at becoming a better writer."
     githubUsername = "schultzca"
-    accent = "#008080"
+    accent = "#393f4d"
     showBorder = true
-    backgroundColor = "#7fffd4"
+    backgroundColor = "##feda6a"
     font = "Raleway" # should match the name on Google Fonts!
     highlight = true
     highlightStyle = "solarized-dark"
