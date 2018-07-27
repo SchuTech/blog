@@ -1,4 +1,4 @@
-baseURL = "http://schutech.github.io/"
+baseURL = "https://schutech.github.io/"
 languageCode = "en-us"
 title = "SchuTech"
 theme = "minimal"
