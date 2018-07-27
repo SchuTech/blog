@@ -1,0 +1,62 @@
+baseURL = "http://schutech.github.io/"
+languageCode = "en-us"
+title = "SchuTech"
+theme = "minimal"
+disqusShortname = "schutech-github-io" # delete this to disable disqus comments
+googleAnalytics = "UA-122989836-1"
+
+[params]
+    author = "Charles Schultz"
+    description = "A collection of blogs, projects, and interests."
+    githubUsername = "schultzca"
+    accent = "#008080"
+    showBorder = true
+    backgroundColor = "#7fffd4"
+    font = "Raleway" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "solarized-dark"
+    highlightLanguages = ["go", "python", "haskell", "kotlin", "scala", "swift"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/post/"
+    name = "Posts"
+    weight = 2
+
+[[menu.main]]
+    url = "/project/"
+    name = "Projects"
+    weight = 3
+
+# Social icons to be shown on the right-hand side of the navigation bar
+# The "name" field should match the name of the icon to be used
+# The list of available icons can be found at http://fontawesome.io/icons/
+
+[[menu.icon]]
+    url = "mailto:schultz.ca@gmail.com"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://github.com/schultzca/"
+    name = "github"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://twitter.com/schultzca/"
+    name = "twitter"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/schultzca/"
+    name = "linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://www.stackoverflow.com/schultzca/"
+    name = "stack-overflow"
+    weight = 5
