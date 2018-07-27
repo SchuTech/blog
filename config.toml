@@ -7,7 +7,7 @@ googleAnalytics = "UA-122989836-1"
 
 [params]
     author = "Charles Schultz"
-    description = "A collection of blogs, projects, and interests."
+    description = "A software engineers attempt at becoming a better writer."
     githubUsername = "schultzca"
     accent = "#008080"
     showBorder = true
